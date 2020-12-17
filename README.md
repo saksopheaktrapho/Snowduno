@@ -37,3 +37,12 @@ Snowduno was inspired by Arduino Lilypad that has the flower shape but Snowduno 
 | **27** | **GND** |
 | **28** | **GND** |
 | **29** | **GND** |
+
+# Support
+[EasyEDA](http://EasyEDA.com) is the easy way to design your PCB and the cool thing is you can design your PCB online, no need to download it XD.
+For this project I used **KiCad** to design it but I can import all my file to [EasyEDA](http://EasyEDA.com) and I can edit it even when I don't have my computer around.
+
+For produce the **Snowduno** I choose [JLCPCB](http://JLCPCB.com) as the supplier because I always use **JLCPCB** since my first design.
+If you want to make any PCB I recommend using  [JLCPCB](http://JLCPCB.com) since it easy to use and has a cheap price, best for Prototype PCB.
+
+
