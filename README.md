@@ -1,5 +1,7 @@
 # Snowduno
-Custom Arduino Board in Snow Shape 
+Custom Arduino Board in Snow Shape.
+
+Snowduno is make to celebrate the upcoming **Christmas Event**.
 
 Snowduno is a microcontroller that base on Atmel328-AU and work as Arduino-Pro-Mini.It has 14 digital pins and 8 analog pins.
 Snowduno was inspired by Arduino Lilypad that has the flower shape but Snowduno has the shape of snow.
@@ -68,3 +70,5 @@ When I use **Gerber Viewer** everything seem ok to me.
 # Noticed
 The **Snowduno** will be produce soon on [JLCPCB](http://JLCPCB.com). 
 I will update if anything change when the I finished making **Snowduno**. :smile:
+
+**Marry Christmas** everyone.
