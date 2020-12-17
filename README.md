@@ -4,6 +4,8 @@ Custom Arduino Board in Snow Shape
 Snowduno is a microcontroller that base on Atmel328-AU and work as Arduino-Pro-Mini.It has 14 digital pins and 8 analog pins.
 Snowduno was inspired by Arduino Lilypad that has the flower shape but Snowduno has the shape of snow.
 
+![Snowduno Logo](/images/Snowduno_logo.png)
+
 ## Pins Description
 | Pin Number | Description |
 | --- | --- |
@@ -38,11 +40,31 @@ Snowduno was inspired by Arduino Lilypad that has the flower shape but Snowduno 
 | **28** | **GND** |
 | **29** | **GND** |
 
+## Images
+For this project **(Snowduno)** I have a problem with the 3D view about board edge layer, so I can't show the 3D image of it.
+But here some images from the design:
+
+![Front Layer](/images/front.PNG)
+
+The Front Layer.
+
+![Back Layer](/images/back.PNG)
+
+The Back Layer.
+
 # Support
-[EasyEDA](http://EasyEDA.com) is the easy way to design your PCB and the cool thing is you can design your PCB online, no need to download it XD.
+[EasyEDA](http://EasyEDA.com) is the easy way to design your PCB and the cool thing is you can design your PCB online, no need to download it :laughing:.
 For this project I used **KiCad** to design it but I can import all my file to [EasyEDA](http://EasyEDA.com) and I can edit it even when I don't have my computer around.
 
 For produce the **Snowduno** I choose [JLCPCB](http://JLCPCB.com) as the supplier because I always use **JLCPCB** since my first design.
 If you want to make any PCB I recommend using  [JLCPCB](http://JLCPCB.com) since it easy to use and has a cheap price, best for Prototype PCB.
 
+# Issues
+As mention above I have a problem with board edge layer and I can't view it as 3D image but I think it's not the big problem.
+When I use **Gerber Viewer** everything seem ok to me.
 
+![Gerber Viewer](/images/gerber_view.PNG)
+
+# Noticed
+The **Snowduno** will be produce soon on [JLCPCB](http://JLCPCB.com). 
+I will update if anything change when the I finished making **Snowduno**. :smile:
